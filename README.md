@@ -1,15 +1,20 @@
 <!-- omit in toc -->
-# 2023-01-10 株式会社ユアシス laravel-sail on WSL 環境構築手順書
+# laravel-sail on WSL 環境構築手順書
 
 ## 1. ドキュメントの作成者
 
-湯浅信彦( yuasys+nob@gmail.com)  
+[株式会社ユアシス](https://hp.yuasys.co.jp)  
+nobちゃん (yuasys+nob@gmail.com)  
 
 ## 2. 改訂履歴
 
 - 0.1
   - 作成日時: 2023-01-10 17:00:00
   - 更新内容: 新規作成（ドラフト版）
+
+- 1.0
+  - 作成日時: 2023-01-13 11:10
+  - 更新内容: ほぼ全面改訂
   
 ## 3. このドキュメントの目次
 

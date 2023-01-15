@@ -102,9 +102,10 @@ $ pwd　#現在の場所を表示するコマンド
 
 | No |TaskName |Terminal Command or Task Contents| Note |
 |----|----|--------------------------------------------------|---------------------------------------------------|
-| 1  | Sail内に入る |$ sail bash |  |
-| 2 | 導入 |sail@<i>ccf506be375b</i>:/var/www/html$ composer require barryvdh/laravel-debugbar | プロンプトの一部（<i>ccf506be375b</i>）は状況ににより変わる |
+| 1  | Sail内に入る |$ <b>sail bash</b> |  |
+| 2 | 導入 |sail@<i>ccf506be375b</i>:/var/www/html$ <b>composer require barryvdh/laravel-debugbar</b> | プロンプトの一部（<i>ccf506be375b</i>）は状況ににより変わる |
 |3|確認| [ブラウザ](http://localhost)で確認する。<br>右図のようなデバッグラインが表示されると成功|![fig2](images/2023-01-15%2016.52.48.png)|
+|4|Sailから戻る|sail@<i>ccf506be375b</i>:/var/www/html$ <b>exit</b>|
 
 
 
